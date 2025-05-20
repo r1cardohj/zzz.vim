@@ -1,6 +1,6 @@
 # zzz.vim
 
-it is a simple color scheme for Vim, inspired by the colors of the [Smyck](https://github.com/hukl/Smyck-Color-Scheme)
+it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck](https://github.com/hukl/Smyck-Color-Scheme)
 
 ## Screenshot
 
