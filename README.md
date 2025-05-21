@@ -9,8 +9,8 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 ## Plug Support
 
 * ale
-* nerdtree (todo)
-* ...
+* nerdtree
+* coc.nvim (todo)
 
 ## Installation
 
