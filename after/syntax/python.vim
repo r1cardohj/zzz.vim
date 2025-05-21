@@ -23,4 +23,4 @@ hi link pythonfDocstring String
 hi link pythonStringModifier PreProc
 
 " self highlight
-syn keyword pythonStatement self
+syn keyword pythonStatement self cls
