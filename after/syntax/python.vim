@@ -21,3 +21,6 @@ syn match pythonStringModifier /\zs *= *\ze[}:!]/ contained containedin=pythonIn
 hi link pythonfString String
 hi link pythonfDocstring String
 hi link pythonStringModifier PreProc
+
+" self highlight
+syn keyword pythonStatement self
