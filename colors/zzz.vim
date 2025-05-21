@@ -39,7 +39,7 @@ hi SpellBad             cterm=none ctermbg=1        ctermfg=15      gui=none    
 hi SpellCap             cterm=none ctermbg=4        ctermfg=15      gui=none                        guifg=#F7F7F7
 hi SpellRare            cterm=none ctermbg=4        ctermfg=15      gui=none                        guifg=#F7F7F7
 hi SpellLocal           cterm=none ctermbg=4        ctermfg=15      gui=none                        guifg=#F7F7F7
-hi Visual               cterm=none ctermbg=15       ctermfg=8       gui=none        guibg=#F7F7F7   guifg=#8F8F8F
+hi Visual               cterm=none ctermbg=15       ctermfg=8       gui=none        guibg=#B0B0B0   guifg=#0e1111
 hi Directory            cterm=none ctermbg=none     ctermfg=4       gui=none        guibg=#242424   guifg=#88CCE7
 hi SpecialKey           cterm=none ctermbg=none     ctermfg=8       gui=none                        guifg=#8F8F8F
 hi DiffAdd              cterm=bold ctermbg=2        ctermfg=15
@@ -75,3 +75,15 @@ hi Method               cterm=none ctermbg=none ctermfg=15          gui=none    
 hi Interpolation        cterm=none ctermbg=none ctermfg=6           gui=none        guifg=#2EB5C1
 
 
+" ----------------------------------------------------------------------------
+" Plug Support
+" ----------------------------------------------------------------------------
+
+" ale 
+
+let g:ale_sign_error = '󱃞'
+let g:ale_sign_warning = '󱚟'
+let g:ale_sign_info = '󰹼'
+hi ALEWarningSign cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#FFE377
+hi ALEErrorSign   cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#F75646 
+hi ALEInfoSign    cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#B0B0B0
