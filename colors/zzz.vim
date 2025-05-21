@@ -87,3 +87,12 @@ let g:ale_sign_info = 'I'
 hi ALEWarningSign cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#FFE377
 hi ALEErrorSign   cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#F75646 
 hi ALEInfoSign    cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#B0B0B0
+
+" nerd tree
+"
+hi NERDTreeDir cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
+hi NERDTreeDirSlash cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
+hi NERDTreeOpenable cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
+hi NERDTreeClosable cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
+hi NERDTreeUp cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
+highlight NERDTreeExecFile cterm=none ctermbg=none ctermfg=4 gui=none guifg=#CDEE69
