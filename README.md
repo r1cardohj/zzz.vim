@@ -11,7 +11,12 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 ### python
 
 * f-string syntax highlight
+* cls and self syntax highlight
 * ...
+
+### other Language
+
+* comming soon...
 
 ## Plug Support
 
