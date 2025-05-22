@@ -32,9 +32,9 @@ hi Folded               cterm=none ctermbg=8        ctermfg=2       gui=none    
 hi FoldColumn           cterm=none ctermbg=8        ctermfg=2       gui=none        guibg=#3B3B3B   guifg=#90AB41
 hi NonText              cterm=bold ctermbg=none     ctermfg=8       gui=bold                        guifg=#8F8F8F
 hi ModeMsg              cterm=bold ctermbg=none     ctermfg=10      gui=none
-hi Pmenu                cterm=none ctermbg=8        ctermfg=15      gui=none        guibg=#8F8F8F   guifg=#F7F7F7
-hi PmenuSel             cterm=none ctermbg=15       ctermfg=8       gui=none        guibg=#F7F7F7   guifg=#8F8F8F
-hi PmenuSbar            cterm=none ctermbg=15       ctermfg=8       gui=none        guibg=#F7F7F7   guifg=#8F8F8F
+hi Pmenu                cterm=none ctermbg=8        ctermfg=15      gui=none        guibg=#5D5D5D   guifg=#8EB33B
+hi PmenuSel             cterm=none ctermbg=15       ctermfg=8       gui=none        guibg=#B0B0B0   guifg=#CDEE69
+hi PmenuSbar            cterm=none ctermbg=15       ctermfg=8       gui=none        guibg=#5D5D5D   guifg=#8EB33B
 hi SpellBad             cterm=none ctermbg=1        ctermfg=15      gui=none                        guifg=#F7F7F7
 hi SpellCap             cterm=none ctermbg=4        ctermfg=15      gui=none                        guifg=#F7F7F7
 hi SpellRare            cterm=none ctermbg=4        ctermfg=15      gui=none                        guifg=#F7F7F7
