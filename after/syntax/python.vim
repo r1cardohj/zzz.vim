@@ -24,3 +24,9 @@ hi link pythonStringModifier PreProc
 
 " self highlight
 syn keyword pythonStatement self cls
+
+" decorator
+hi Decorator guifg=#FBB1F9 guibg=NONE gui=italic cterm=italic
+
+hi! link pythonDecorator Decorator
+hi! link pythonDecoratorName Decorator

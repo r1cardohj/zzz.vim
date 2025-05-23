@@ -14,7 +14,7 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 
 * f-string syntax highlight
 * cls and self syntax highlight
-* ...
+* @decorator highlight
 
 #### other Language
 
@@ -24,7 +24,6 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 
 * ale
 * nerdtree
-* coc.nvim (todo)
 * ...
 
 ## Installation
