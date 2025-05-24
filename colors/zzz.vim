@@ -106,3 +106,5 @@ hi CocHintSign    cterm=none   ctermbg=none    ctermfg=15     gui=none      guib
 hi CocWarningHighlight cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=NONE   guifg=#FFE377
 hi CocErrorHighlight  cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=NONE   guifg=#F75646 
 
+" python
+let g:python_highlight_all = 1
