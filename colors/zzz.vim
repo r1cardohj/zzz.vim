@@ -96,3 +96,13 @@ hi NERDTreeOpenable cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
 hi NERDTreeClosable cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
 hi NERDTreeUp cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
 highlight NERDTreeExecFile cterm=none ctermbg=none ctermfg=4 gui=none guifg=#CDEE69
+
+" Coc
+
+hi CocWarningSign cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#FFE377
+hi CocErrorSign   cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#F75646 
+hi CocInfoSign    cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#B0B0B0
+hi CocHintSign    cterm=none   ctermbg=none    ctermfg=15     gui=none      guibg=#282828   guifg=#B0B0B0
+hi CocWarningHighlight cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=none   guifg=#FFE377
+hi CocErrorHighlight  cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=none   guifg=#F75646 
+
