@@ -15,6 +15,7 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 * f-string syntax highlight
 * cls and self syntax highlight
 * @decorator highlight
+* error indent highlight
 
 #### other Language
 
