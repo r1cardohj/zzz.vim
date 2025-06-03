@@ -109,4 +109,4 @@ hi CocErrorHighlight  cterm=none   ctermbg=none    ctermfg=15     gui=none  	gui
 " neo tree
 "
 hi NeoTreeDirectoryIcon cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
-hi NeoTreeDirectoryName cterm=none ctermbg=none ctermfg=4 gui=none guifg=#77DFD8
+hi NeoTreeDirectoryName cterm=none ctermbg=none ctermfg=4 gui=none guifg=#9CD9F0
