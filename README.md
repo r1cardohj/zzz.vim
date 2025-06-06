@@ -18,7 +18,7 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 
 #### other Language
 
-* comming soon...
+* coming soon...
 
 ### Plug Support
 
@@ -26,6 +26,7 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 * nerdtree
 * neo-tree
 * coc
+* vim-matchup
 * ...
 
 ## Installation

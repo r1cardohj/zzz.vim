@@ -110,3 +110,6 @@ hi CocErrorHighlight  cterm=none   ctermbg=none    ctermfg=15     gui=none  	gui
 "
 hi NeoTreeDirectoryIcon cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
 hi NeoTreeDirectoryName cterm=none ctermbg=none ctermfg=4 gui=none guifg=#9CD9F0
+
+" matchup
+hi MatchParen ctermbg=blue guibg=NONE guifg=#FBB1F9
