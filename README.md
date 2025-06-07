@@ -27,7 +27,6 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 
 * ale
 * nerdtree
-* neo-tree
 * coc
 * vim-matchup
 * ...
