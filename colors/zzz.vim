@@ -68,7 +68,7 @@ hi PreProc              cterm=none ctermbg=none ctermfg=10          gui=none    
 hi Type                 cterm=none ctermbg=none ctermfg=12          gui=none        guifg=#96D9F1
 hi Statement            cterm=none ctermbg=none ctermfg=10          gui=none        guifg=#D1FA71
 hi Special              cterm=none ctermbg=none ctermfg=6           gui=none        guifg=#d7d7d7
-hi String               cterm=none ctermbg=none ctermfg=3           gui=none        guifg=#F6DC69
+hi String               cterm=italic ctermbg=none ctermfg=3           gui=italic      guifg=#F6DC69
 hi Number               cterm=none ctermbg=none ctermfg=3           gui=none        guifg=#F6DC69
 hi Underlined           cterm=none ctermbg=none ctermfg=magenta     gui=underline   guibg=#272727
 hi Symbol               cterm=none ctermbg=none ctermfg=9           gui=none        guifg=#FAB1AB
