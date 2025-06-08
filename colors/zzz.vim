@@ -14,6 +14,7 @@ endif
 
 set background=dark
 set linespace=3
+set noshowmode
 
 let g:colors_name = "zzz"
 
