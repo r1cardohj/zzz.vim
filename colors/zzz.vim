@@ -37,6 +37,7 @@ hi ModeMsg              cterm=bold ctermbg=none     ctermfg=10      gui=none
 hi Pmenu                cterm=none ctermbg=8        ctermfg=15      gui=none        guibg=#5D5D5D   guifg=#8EB33B
 hi PmenuSel             cterm=none ctermbg=15       ctermfg=8       gui=none        guibg=#B0B0B0   guifg=#CDEE69
 hi PmenuSbar            cterm=none ctermbg=15       ctermfg=8       gui=none        guibg=#5D5D5D   guifg=#8EB33B
+hi PmenuThumb          cterm=none ctermbg=15       ctermfg=8        gui=none        guibg=#5D5D5D   guifg=#8EB33B
 hi SpellBad             cterm=none ctermbg=1        ctermfg=15      gui=none                        guifg=#F7F7F7
 hi SpellCap             cterm=none ctermbg=4        ctermfg=15      gui=none                        guifg=#F7F7F7
 hi SpellRare            cterm=none ctermbg=4        ctermfg=15      gui=none                        guifg=#F7F7F7
