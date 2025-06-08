@@ -89,6 +89,9 @@ let g:ale_sign_info = 'I'
 hi ALEWarningSign cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#FFE377
 hi ALEErrorSign   cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#F75646 
 hi ALEInfoSign    cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#B0B0B0
+hi ALEVirtualTextError   cterm=italic ctermbg=none     ctermfg=15      gui=italic  	  guifg=#C75646
+hi ALEVirtualTextWarning cterm=italic ctermbg=none    ctermfg=15     gui=italic   guifg=#D0B03C
+hi ALEVirtualTextInfo    cterm=italic ctermbg=none    ctermfg=15     gui=italic   guifg=#218693 
 
 " nerd tree
 "
