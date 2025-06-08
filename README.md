@@ -20,6 +20,7 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 
 * ale
 * nerdtree
+* nerdtree-git-plugin
 * coc
 * vim-matchup
 * ...

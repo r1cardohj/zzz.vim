@@ -98,6 +98,21 @@ hi NERDTreeClosable cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
 hi NERDTreeUp cterm=none ctermbg=none ctermfg=4 gui=none guifg=#72B3CC
 highlight NERDTreeExecFile cterm=none ctermbg=none ctermfg=4 gui=none guifg=#CDEE69
 
+" nerdtree git status
+let g:NERDTreeGitStatusIndicatorMapCustom = {
+                \ 'Modified'  :'󰏫',
+                \ 'Staged'    :'󰆓',
+                \ 'Untracked' :'',
+                \ 'Renamed'   :'➜',
+                \ 'Unmerged'  :'═',
+                \ 'Deleted'   :'✖',
+                \ 'Dirty'     :'✗',
+                \ 'Ignored'   :'☒',
+                \ 'Clean'     :'✔︎',
+                \ 'Unknown'   :'?',
+                \ }
+
+
 " Coc
 
 hi CocWarningSign cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#FFE377
@@ -114,3 +129,4 @@ hi NeoTreeDirectoryName cterm=none ctermbg=none ctermfg=4 gui=none guifg=#9CD9F0
 
 " matchup
 hi MatchParen ctermbg=blue guibg=NONE guifg=#FBB1F9
+
