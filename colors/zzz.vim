@@ -130,3 +130,7 @@ hi NeoTreeDirectoryName cterm=none ctermbg=none ctermfg=4 gui=none guifg=#9CD9F0
 " matchup
 hi MatchParen ctermbg=blue guibg=NONE guifg=#FBB1F9
 
+" vim-gitgutter
+highlight GitGutterAdd    guifg=#CDEE69 ctermfg=2
+highlight GitGutterChange guifg=#FFE377 ctermfg=3
+highlight GitGutterDelete guifg=#E09690 ctermfg=1
