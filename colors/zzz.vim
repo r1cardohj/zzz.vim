@@ -126,6 +126,9 @@ hi CocInfoSign    cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#
 hi CocHintSign    cterm=none   ctermbg=none    ctermfg=15     gui=none      guibg=#282828   guifg=#B0B0B0
 hi CocWarningHighlight cterm=bold ctermbg=none    ctermfg=15     gui=bold guibg=NONE   guifg=#FFE377
 hi CocErrorHighlight  cterm=bold ctermbg=none    ctermfg=15     gui=bold guibg=NONE   guifg=#F75646 
+hi CocInfoHighlight   cterm=bold ctermbg=none    ctermfg=15     gui=bold guibg=NONE   guifg=#B0B0B0
+hi CocHintHighlight   cterm=bold ctermbg=none    ctermfg=15     gui=bold guibg=NONE   guifg=#B0B0B0
+hi CocHighlightText cterm=bold gui=bold guifg=#FBB1F9 guibg=NONE
 
 " neo tree
 "
