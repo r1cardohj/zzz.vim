@@ -124,8 +124,8 @@ hi CocWarningSign cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#
 hi CocErrorSign   cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#F75646 
 hi CocInfoSign    cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=#282828   guifg=#B0B0B0
 hi CocHintSign    cterm=none   ctermbg=none    ctermfg=15     gui=none      guibg=#282828   guifg=#B0B0B0
-hi CocWarningHighlight cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=NONE   guifg=#FFE377
-hi CocErrorHighlight  cterm=none   ctermbg=none    ctermfg=15     gui=none  	guibg=NONE   guifg=#F75646 
+hi CocWarningHighlight cterm=bold ctermbg=none    ctermfg=15     gui=bold guibg=NONE   guifg=#FFE377
+hi CocErrorHighlight  cterm=bold ctermbg=none    ctermfg=15     gui=bold guibg=NONE   guifg=#F75646 
 
 " neo tree
 "
