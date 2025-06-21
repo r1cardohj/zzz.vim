@@ -129,6 +129,7 @@ hi CocErrorHighlight  cterm=bold ctermbg=none    ctermfg=15     gui=bold guibg=N
 hi CocInfoHighlight   cterm=bold ctermbg=none    ctermfg=15     gui=bold guibg=NONE   guifg=#B0B0B0
 hi CocHintHighlight   cterm=bold ctermbg=none    ctermfg=15     gui=bold guibg=NONE   guifg=#B0B0B0
 hi CocHighlightText cterm=bold gui=bold guifg=#FBB1F9 guibg=NONE
+hi CocSearch cterm=none ctermbg=15 ctermfg=8 gui=none  guifg=#CDEE69
 
 " neo tree
 "
