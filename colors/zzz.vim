@@ -105,12 +105,12 @@ highlight NERDTreeExecFile cterm=none ctermbg=none ctermfg=4 gui=none guifg=#CDE
 
 " nerdtree git status
 let g:NERDTreeGitStatusIndicatorMapCustom = {
-                \ 'Modified'  :'󰏫',
-                \ 'Staged'    :'󰆓',
-                \ 'Untracked' :'',
-                \ 'Renamed'   :'➜',
+                \ 'Modified'  :'M',
+                \ 'Staged'    :'S',
+                \ 'Untracked' :'U',
+                \ 'Renamed'   :'R',
                 \ 'Unmerged'  :'═',
-                \ 'Deleted'   :'✖',
+                \ 'Deleted'   :'D',
                 \ 'Dirty'     :'✗',
                 \ 'Ignored'   :'☒',
                 \ 'Clean'     :'✔︎',
