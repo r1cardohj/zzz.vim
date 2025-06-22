@@ -166,3 +166,9 @@ hi CmpDocBorder cterm=none ctermbg=8 ctermfg=15 gui=none  guifg=#F7F7F7
 hi LspReferenceText cterm=none ctermbg=15 ctermfg=8 gui=bold guifg=NONE guibg=#373b41
 hi LspReferenceRead cterm=none ctermbg=15 ctermfg=8 gui=bold guifg=NONE guibg=#2d3748
 hi LspReferenceWrite cterm=none ctermbg=15 ctermfg=8 gui=bold guifg=NONE guibg=#4a5568
+hi LspDiagnosticError cterm=none ctermbg=1 ctermfg=15 gui=bold guifg=#F75646
+hi LspDiagnosticWarning cterm=none ctermbg=3 ctermfg=15 gui=bold guifg=#FFE377
+hi LspDiagnosticInformation cterm=none ctermbg=4 ctermfg=15 gui=bold guifg=#B0B0B0
+hi DiagnosticUnderlineError cterm=none ctermbg=none ctermfg=1 gui=bold guifg=#F75646
+hi DiagnosticUnderlineWarning cterm=none ctermbg=none ctermfg=3 gui=bold guifg=#FFE377
+hi DiagnosticUnderlineInformation cterm=none ctermbg=none ctermfg=4 gui=bold guifg=#B0B0B0
