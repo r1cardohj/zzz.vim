@@ -159,3 +159,11 @@ highlight! CmpItemKindKeyword guibg=NONE guifg=#D4D4D4
 highlight! link CmpItemKindProperty CmpItemKindKeyword
 highlight! link CmpItemKindUnit CmpItemKindKeyword
 hi CmpSel cterm=bold ctermbg=15 ctermfg=8 gui=bold guibg=#373b41 guifg=#CDEE69
+hi CmpDoc cterm=none ctermbg=8 ctermfg=15 gui=none guifg=#F7F7F7
+hi CmpDocBorder cterm=none ctermbg=8 ctermfg=15 gui=none  guifg=#F7F7F7
+
+
+" vim-illuminate
+hi def IlluminatedWordText gui=bold cterm=bold guifg=#FBB1F9 guibg=NONE
+hi def IlluminatedWordRead gui=bold cterm=bold guifg=#FBB1F9 guibg=NONE
+hi def IlluminatedWordWrite gui=bold cterm=bold guifg=#FBB1F9 guibg=NONE
