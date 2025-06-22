@@ -162,8 +162,7 @@ hi CmpSel cterm=bold ctermbg=15 ctermfg=8 gui=bold guibg=#373b41 guifg=#CDEE69
 hi CmpDoc cterm=none ctermbg=8 ctermfg=15 gui=none guifg=#F7F7F7
 hi CmpDocBorder cterm=none ctermbg=8 ctermfg=15 gui=none  guifg=#F7F7F7
 
-
-" vim-illuminate
-hi def IlluminatedWordText gui=bold cterm=bold guifg=#FBB1F9 guibg=NONE
-hi def IlluminatedWordRead gui=bold cterm=bold guifg=#FBB1F9 guibg=NONE
-hi def IlluminatedWordWrite gui=bold cterm=bold guifg=#FBB1F9 guibg=NONE
+" nvim lsp
+hi LspReferenceText cterm=none ctermbg=15 ctermfg=8 gui=bold guifg=NONE guibg=#373b41
+hi LspReferenceRead cterm=none ctermbg=15 ctermfg=8 gui=bold guifg=NONE guibg=#2d3748
+hi LspReferenceWrite cterm=none ctermbg=15 ctermfg=8 gui=bold guifg=NONE guibg=#4a5568
