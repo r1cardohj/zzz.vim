@@ -35,7 +35,7 @@ hi FoldColumn           cterm=none ctermbg=8        ctermfg=2       gui=none    
 hi NonText              cterm=bold ctermbg=none     ctermfg=8       gui=bold                        guifg=#8F8F8F
 hi ModeMsg              cterm=bold ctermbg=none     ctermfg=10      gui=none
 hi Pmenu                cterm=none ctermbg=8        ctermfg=15      gui=none        guibg=#5D5D5D   guifg=#F7F7F7
-hi PmenuSel             cterm=bold ctermbg=15       ctermfg=8       gui=bold        guibg=#218693   guifg=#F7F7F7
+hi PmenuSel             cterm=bold ctermbg=15       ctermfg=8       gui=bold        guibg=#808080   guifg=#CDEE69
 hi PmenuSbar            cterm=none ctermbg=15       ctermfg=8       gui=none        guibg=#5D5D5D   guifg=#8EB33B
 hi PmenuThumb          cterm=none ctermbg=15       ctermfg=8        gui=none        guibg=#5D5D5D   guifg=#8EB33B
 hi SpellBad             cterm=none ctermbg=1        ctermfg=15      gui=none                        guifg=#F7F7F7
