@@ -24,6 +24,8 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 * vim-gitgutter
 * coc
 * vim-matchup
+* nvim-lsp
+* nvim-cmp
 * ...
 
 ## Installation
