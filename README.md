@@ -33,3 +33,13 @@ it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck]
 ```vim
 Plug 'r1cardohj/zzz.vim'
 ```
+## FQ
+
+how to make background transparent?
+
+```vim
+autocmd vimenter * hi Normal guibg=NONE ctermbg=NONE
+autocmd vimenter * hi SignColumn guibg=NONE ctermbg=NONE
+autocmd vimenter * hi LineNr guibg=NONE ctermbg=NONE
+```
+
