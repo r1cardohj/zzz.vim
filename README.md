@@ -2,6 +2,9 @@
 
 it is a soft, simple color scheme for Vim, inspired by the colors of the [Smyck](https://github.com/hukl/Smyck-Color-Scheme)
 
+![Screenshot from 2025-06-29 00-24-27](https://github.com/user-attachments/assets/6252a1c6-fb6c-4a88-99e5-58dcf2323402)
+
+
 ## Feature
 
 ### Lang support
